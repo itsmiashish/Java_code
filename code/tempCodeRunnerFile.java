@@ -1,7 +1,3 @@
-
-{
-	break;
-}
-else{
-	System.out.println("no any duplicate element");
-}
+for(int l=n;l>i;l--){
+// System.out.print(" ");
+// 		}
