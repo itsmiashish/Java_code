@@ -14,7 +14,7 @@ public class palindrom {
 			 n=n/10;
 		} while (n>0);
 		if (rev==c) {
-			System.out.println("palin drom number");
+			System.out.println("palindrom number");
 		}
 		else
 		{
